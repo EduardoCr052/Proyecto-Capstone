@@ -1,3 +1,3 @@
 # Proyecto-Capstone
 
-Nombre:Monitoreo del desgaste en vías ferroviarias
+## Titulo: Monitoreo del desgaste en vías ferroviarias
